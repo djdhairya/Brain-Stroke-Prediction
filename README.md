@@ -113,6 +113,9 @@ Brain Stroke Prediction/
 │   └── datasets.csv      
 └── brain_stroke_prediction.ipynb  
 ```
+![Screenshot 2024-12-26 104643](https://github.com/user-attachments/assets/31b09b10-3771-413d-a234-05412a37aec3)
+![Screenshot 2024-12-26 104703](https://github.com/user-attachments/assets/e5359e0f-e43f-43d2-83a9-76a9e0062a90)
+
 
 ---
 
